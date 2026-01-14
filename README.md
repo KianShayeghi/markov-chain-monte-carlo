@@ -62,7 +62,7 @@ This project demonstrates:
    ```
 
 2. Create and activate a virtual environment:
-   ```
+   ```bash
    python -m venv venv
    source venv/bin/activate   # macOS / Linux
    # or
@@ -70,11 +70,11 @@ This project demonstrates:
    ```
 
 3. Install dependencies:
-   ```
+   ```bash
    pip install numpy scipy matplotlib jupyter
    ```
 4. Launch Jupyter:
-   ```
+   ```bash
    jupyter notebook
    ```
    
