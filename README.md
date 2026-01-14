@@ -40,10 +40,9 @@ Contains the observed data used in the perfect Monte Carlo experiments.
 
 ---
 
-## Why this repo exists
+## Purpose of project
 
-This project is designed as a **methods-focused portfolio piece** rather than a single applied case study.  
-It demonstrates:
+This project demonstrates:
 
 - Core MCMC algorithms implemented from first principles  
 - Understanding of:
