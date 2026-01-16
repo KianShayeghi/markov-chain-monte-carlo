@@ -1,6 +1,6 @@
 # Markov Chain Monte Carlo
 
-This repository contains clean, from-scratch implementations of core **Markov Chain Monte Carlo (MCMC)** methods for Bayesian inference and model selection.  
+This repository contains implementations from scratch of core **Markov Chain Monte Carlo (MCMC)** methods for Bayesian inference and model selection.  
 The focus is on understanding how different samplers work in practice, how they compare, and how they are used in realistic statistical problems.
 
 ## Contents
@@ -9,7 +9,7 @@ The focus is on understanding how different samplers work in practice, how they 
 **File:** `Gibbs sampling.ipynb`  
 Implements a Gibbs sampler for a bivariate Gaussian distribution, illustrating:
 - Conditional distributions
-- Iterative coordinate-wise sampling
+- Iterative sampling
 - Convergence behaviour and mixing in low dimensions
 
 This notebook demonstrates how Gibbs sampling exploits conditional conjugacy to produce efficient draws from a joint distribution.
